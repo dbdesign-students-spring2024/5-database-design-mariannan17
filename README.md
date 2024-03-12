@@ -82,4 +82,7 @@ With these changes, the data is now 4NF compliant as the data is now represented
 
 
 ## ER diagram  
+![Screenshot](images/Marianna_ER_Diagram.png)
+
+Here is my ER diagram. I was having several issues importing it from draw.io, I kept getting an issue "Authorization Required" and no matter what I did to fix this issue, it wouldn't work. 
 
